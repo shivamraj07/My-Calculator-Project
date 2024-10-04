@@ -24,6 +24,12 @@ body {
   background-color: rgba(0, 0, 0, 0.9);
 }
 
+@media screen and (min-width: 768px) {
+  .bg-calculator {
+    margin-top: 80px;
+  }
+}
+
 .bg-input {
   width: 320px;
   margin: 8px;
