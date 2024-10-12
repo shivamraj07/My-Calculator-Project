@@ -1,6 +1,7 @@
 # Basic Calculator
 ### Project Overview
 This project is a Calculator application built using HTML, CSS, and JavaScript. It simulates a basic calculator that can perform arithmetic operations like addition, subtraction, multiplication, and division. The app has a clean user interface, suitable for anyone who wants to perform basic calculations right in their browser.
+> Demo : https://my-calculator-project-psi.vercel.app/
 ### Features
 - Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
 - Clear Display: Users can reset the calculator by clearing the display.
